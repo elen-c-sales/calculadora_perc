@@ -6,9 +6,7 @@ Aplicativo gráfico desenvolvido em Python com foco em operações percentuais m
 
 ## 🚀 Demonstração
 
-<p align="center">
-  <img src="docs/demonstracao.gif" width="600" alt="Demonstração animada da Calculadora de Porcentagem"/>
-</p>
+![Demonstração animada](docs/demonstracao.gif)
 
 ---
 
